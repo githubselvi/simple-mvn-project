@@ -1,4 +1,5 @@
-# Simple Maven Project
+# Simple Maven Project Selvi
 
 ## A Maven Project used for Jenkins Training.
-Try something else.
+
+Project to test Jenkins - Selvi
